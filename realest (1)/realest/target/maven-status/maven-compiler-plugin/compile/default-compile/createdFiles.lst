@@ -1,0 +1,6 @@
+com\thbs\realest\MainController.class
+com\thbs\realest\property\PropertyRepository.class
+com\thbs\realest\property\PropertyController.class
+com\thbs\realest\property\PropertyService.class
+com\thbs\realest\property\Properties.class
+com\thbs\realest\RealestApplication.class
